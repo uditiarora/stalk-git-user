@@ -9,5 +9,5 @@ jobs:
     
     steps:
     - uses: actions/checkout@v1
-    - name: build project
+    - name: Build project.
       run: npm run build
